@@ -1,0 +1,36 @@
+{
+  "name": "factacorp-sdk",
+  "version": "1.0.0",
+  "description": "SDK for FACTA Protocol on Robinhood Chain",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "facta",
+    "gpu",
+    "ai",
+    "robinhood-chain",
+    "web3"
+  ],
+  "author": "factacorp <support@factacorp.io>",
+  "license": "MIT",
+  "homepage": "https://factacorp.io",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/factacorp/factacorp-sdk.git"
+  },
+  "peerDependencies": {
+    "ethers": ">=6.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "ethers": "^6.13.0",
+    "typescript": "^5.5.0"
+  }
+}
