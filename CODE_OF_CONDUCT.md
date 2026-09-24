@@ -60,7 +60,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-dev@factacorp.io.
+contact@factacorp.io.
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
@@ -121,7 +121,7 @@ version 2.1, available at
 Community Impact Guidelines were inspired by
 [Mozilla's code of conduct enforcement ladder][mozilla-coc].
 
-Feedback on this Code of Conduct can be sent to dev@factacorp.io.
+Feedback on this Code of Conduct can be sent to contact@factacorp.io.
 
 [homepage]: https://www.contributor-covenant.org
 [v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html

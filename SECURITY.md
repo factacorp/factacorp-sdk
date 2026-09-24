@@ -14,7 +14,7 @@ If you discover a security vulnerability in the FACTA SDK, backend services, or 
 
 1. **Do not disclose it publicly** or create public GitHub issues.
 2. Email full technical details, proof-of-concept steps, and potential impact to:
-   - **`security@factacorp.io`**
+   - **`contact@factacorp.io`**
 3. We acknowledge receipt within **24 hours** and provide regular triage updates.
 
 ## Scope
